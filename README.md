@@ -1,6 +1,7 @@
 # TodoList API 서버
 
-React Native로 생성한 프로젝트 **todolistrn**의 서버 역할을 하는 **TodoList API 서버**입니다.
+React Native로 생성한 프로젝트 **todolistrn**의 서버 역할을 하는 **TodoList API 서버**입니다.  
+JAVA11 버전과 H2 서버를 이용해 DB설치 없이 실행할 수 있도록 만들었습니다.
 
 ---
 
