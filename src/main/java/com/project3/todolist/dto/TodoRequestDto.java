@@ -7,5 +7,5 @@ import lombok.Setter;
 @Setter
 public class TodoRequestDto {
     private String contents;
-    private int isCompleted = 0;
+    private Integer isCompleted = 0;
 }
